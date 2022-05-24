@@ -45,11 +45,11 @@
  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
  
  
- <a href="https://www.atlassian.com/de/software/jira" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="40"/> </a>
+ <a href="https://www.atlassian.com/de/software/jira" target="_blank"> <img src="https://taskreports.com/wp-content/uploads/2016/05/jira-e1478221402673.jpg" alt="jira" width="40" height="40"/> </a>
  
- <a href="https://slack.com/" target="_blank"> <img src="https://static3.srcdn.com/wordpress/wp-content/uploads/2021/01/Slack-logos-banner.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5" height="45"/> </a> 
+ <a href="https://slack.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1461144163789983748/N5iAWd2d.jpg" alt="slack" width="40" height="40"/> </a> 
  
- <a href="https://mui.com/" target="_blank"><img src="https://mui.com/static/logo.png" height="45"/> </a>
+ <a href="https://mui.com/" target="_blank"><img src="https://mui.com/static/logo.png" alt="mui" width="40" height="40"/> </a>
 </p>   
 
 
