@@ -33,10 +33,9 @@
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
  <a href="https://www.atlassian.com/de/software/jira" target="_blank"> <img src="https://taskreports.com/wp-content/uploads/2016/05/jira-e1478221402673.jpg" alt="jira" width="40" height="40"/> </a>
  <a href="https://slack.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1461144163789983748/N5iAWd2d.jpg" alt="slack" width="40" height="40"/> </a>
- 
 </p>   
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baaserosman&show_icons=true&locale=en&layout=compact" alt="dsdnmstf" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baaserosman&show_icons=true&locale=en" alt="baaserosman" /></p>
 
