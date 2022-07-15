@@ -4,7 +4,6 @@
 <h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="Conding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **https://www.linkedin.com/in/osman-b-6b606021a/**
 
