@@ -4,12 +4,12 @@
 <h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="Conding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-- 📫 How to reach me **https://www.linkedin.com/in/osman-b-6b606021a/**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 📫 How to reach me <p align="left">
+<a href="https://www.linkedin.com/in/osman-b-6b606021a/" target="blank"><img align="center" margin-top="10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baaserosman" height="30" width="40" /></a> https://www.linkedin.com/in/osman-b-6b606021a/
+ 
+ <a href="https://www.xing.com/profile/Osman_Bascher/cv" target="blank"><img align="center" margin-top="10px" src="https://www.blic-voraus.de/wp-content/uploads/sites/8/2016/10/Xing-Icon-01.png" alt="baaserosman" height="30" width="40" /></a> https://www.xing.com/profile/Osman_Bascher/cv
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
