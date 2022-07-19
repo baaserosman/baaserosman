@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me <p align="left">
  <br>
-<a href="https://www.linkedin.com/in/osman-b-6b606021a/" target="blank"><img align="center" margin-top="10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baaserosman" height="30" width="40" /></a> www.linkedin.com/in/osman-b-6b606021a/
+<a href="https://www.linkedin.com/in/osman-bascher/" target="blank"><img align="center" margin-top="10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baaserosman" height="30" width="40" /></a> www.linkedin.com/in/osman-bascher/
  
  <a href="https://www.xing.com/profile/Osman_Bascher/cv" target="blank"><img align="center" margin-top="10px" src="https://www.blic-voraus.de/wp-content/uploads/sites/8/2016/10/Xing-Icon-01.png" alt="baaserosman" height="30" width="40" /></a> www.xing.com/profile/Osman_Bascher/cv
 <hr>
