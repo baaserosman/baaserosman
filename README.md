@@ -28,7 +28,7 @@
  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
  <a href="https://mui.com/" target="_blank"><img src="https://mui.com/static/logo.png" alt="mui" width="40" height="40"/> </a> 
  
- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="python" width="40" height="40"/> </a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.argenova.com.tr/uploads/a_blog/image/768644_node-js-nedir-ne-icin-kullanilir.jpg" alt="python" width="40" height="40"/> </a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.stackcodify.com/wp-content/uploads/2021/05/django-logo-big-1.jpeg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
