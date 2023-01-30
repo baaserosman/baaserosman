@@ -3,7 +3,6 @@
 <h2 align="center">Frontend Developer</h2>
 <img align="right" alt="Conding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **TypeScript**
 <br>
 
 <h3 align="left">Connect with me:</h3>
