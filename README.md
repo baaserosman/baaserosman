@@ -41,8 +41,9 @@
 <a href="https://aws.amazon.com/de/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1388165108786884619/ZnSwt6Qb_400x400.jpg" alt="slack" width="40" height="40"/> </a>
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://scalefactory.com/blog/2021/04/30/hashicorp-terraform-release-key-rotation/Terraform.png" alt="terraform" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://imgproxy7.tinhte.vn/BI3pFm15hkGuqaM9AmyYm5D8qsUOS1q71vRqwAwP3Io/rs:fill:400:400:0/plain/https://photo2.tinhte.vn/data/attachment-files/2019/05/4641077_docker-la-gi-tai-sao-phai-dung-docker.jpg" alt="jira" width="40" height="40"/> </a> 
- <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/3-31510_svg-kubernetes-logo-hd-png-download.png" alt="jira" width="40" height="40"/> </a>
-</p>   
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/3-31510_svg-kubernetes-logo-hd-png-download.png" alt="jira" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank"> <img src="https://www.signal-chief.com/wp-content/uploads/2020/12/Ansible.jpg" alt="ansible" width="40" height="40"/> </a>
+</p> 
 <hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baaserosman&show_icons=true&locale=en" alt="baaserosman" /></p>
