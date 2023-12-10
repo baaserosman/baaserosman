@@ -43,6 +43,8 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://imgproxy7.tinhte.vn/BI3pFm15hkGuqaM9AmyYm5D8qsUOS1q71vRqwAwP3Io/rs:fill:400:400:0/plain/https://photo2.tinhte.vn/data/attachment-files/2019/05/4641077_docker-la-gi-tai-sao-phai-dung-docker.jpg" alt="jira" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/3-31510_svg-kubernetes-logo-hd-png-download.png" alt="jira" width="40" height="40"/> </a>
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.signal-chief.com/wp-content/uploads/2020/12/Ansible.jpg" alt="ansible" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.informatik-aktuell.de/fileadmin/_processed_/5/d/csm_720-Jenkins_210b3e295f.jpg" alt="jenkins" width="40" height="40"/> </a>
+<a href="https://maven.apache.org/" target="_blank"> <img src="https://iq.opengenus.org/content/images/2019/08/maven.png" alt="maven" width="40" height="40"/> </a>
 </p> 
 <hr>
 
