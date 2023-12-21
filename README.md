@@ -45,6 +45,7 @@
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.signal-chief.com/wp-content/uploads/2020/12/Ansible.jpg" alt="ansible" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.informatik-aktuell.de/fileadmin/_processed_/5/d/csm_720-Jenkins_210b3e295f.jpg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://maven.apache.org/" target="_blank"> <img src="https://iq.opengenus.org/content/images/2019/08/maven.png" alt="maven" width="40" height="40"/> </a>
+<a href="https://maven.apache.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMt02HMw26k-v6o94tR9TBnp3aB303tZ2_GYVPFvqo12hIQsAZHPz8WnfECskQV0Xlc8&usqp=CAU" alt="maven" width="40" height="40"/> </a>
 <a href="https://prometheus.io/" target="_blank"> <img src="https://static.wixstatic.com/media/cf93e2_c52dcfd44ea84f01b64cef91b4e54b98~mv2.png/v1/fill/w_640,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cf93e2_c52dcfd44ea84f01b64cef91b4e54b98~mv2.png" alt="prometheus" width="40" height="40"/> </a>
 <a href="https://grafana.com/" target="_blank"> <img src="https://images.ctfassets.net/o7xu9whrs0u9/7Erq6IEoCaJkBtHMhblLzS/9310518537dffc123d3d9059edace8ed/Grafana-logo-2.png" alt="grafana" width="40" height="40"/> </a>
 </p> 
