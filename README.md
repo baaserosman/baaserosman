@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Osman</h1>
-<h2 align="center">Frontend Developer</h2>
+<h2 align="center">DevOps Engineer</h2>
 <img align="right" alt="Conding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
